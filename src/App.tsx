@@ -8,7 +8,7 @@ function App() {
       <AnimatedBackground />
 
       {/* Navbar */}
-      <NavBar />
+      <NavBar />      
     </div>
   );
 }
